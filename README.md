@@ -35,13 +35,12 @@ I like to craft solid and scalable products with great user experiences. I love 
 
 <details>
 <summary>
-  More stuff about me
+  More about me
 </summary>
-
 <br >
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=MichaelOlatunji&count_private=true&show_icons=true&theme=radical)
+![Michael Olatunji's github stats](https://github-readme-stats.vercel.app/api?username=MichaelOlatunji&count_private=true&show_icons=true&theme=radical)
 
 </details>
