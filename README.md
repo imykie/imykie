@@ -13,8 +13,8 @@ I like to craft solid and scalable products with great user experiences. I love 
 - 🔭 I’m currently learning more about Data Structures and Algorithms.
 - 🤔 I’m looking for help with writing getting better at solving complex problems and software design.
 - 📫 How to reach me: tundexmike@gmail.com or [My Website](https://imyke.dev/contact)
-- 😄 Pronouns: He/Him/imyke.
-- ⚡ Fun fact: Reading and Music as hobby.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I'm always curious about technologies.
 
 #### Top Technologies
 
