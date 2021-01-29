@@ -31,9 +31,9 @@ I like to craft solid and scalable products with great user experiences. I love 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MichaelOlatunji.MichaelOlatunji)
 
 <details>
-<summary>
-  More about me
-</summary>
+  <summary>
+    See more about me
+  </summary>
 <br >
 
 #### Github Stats
