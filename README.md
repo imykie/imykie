@@ -38,6 +38,6 @@ I like to craft solid and scalable products with great user experiences. I love 
 
 #### Github Stats
 
-![Michael Olatunji's github stats](https://github-readme-stats.vercel.app/api?username=MichaelOlatunji&count_private=true&show_icons=true&theme=radical)
+![Michael Olatunji's github stats](https://github-readme-stats.vercel.app/api?username=imykie&count_private=true&show_icons=true&theme=radical)
 
 </details>
