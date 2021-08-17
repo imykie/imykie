@@ -4,17 +4,17 @@
 **MichaelOlatunji/MichaelOlatunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I like to craft solid and scalable products with great user experiences. I love learning new stuffs about Tech!
+I craft solid and scalable products with great user experiences. I love learning more about Tech everyday!
 
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@_imyke-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_imyke)](https://twitter.com/_imyke) [![Linkedin Badge](https://img.shields.io/badge/-Michael%20Olatunji-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imykel/) [![Mail Badge](https://img.shields.io/badge/-tundexmike-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tundexmike@gmail.com)
 
-- 🔭 I’m currently learning more about Data Structures and Algorithms.
-- 🤔 I’m looking for help with getting better at solving complex problems and large scale software designing.
+- 🔭 I’m currently working on taking my Data Structures and Algorithms skills to the next level 🚀🚀🚀.
+- 🤔 I’m looking for help with getting better with advanced system design and architectural patterns.
 - 📫 How to reach me: tundexmike@gmail.com or [My Website](https://imyke.dev/contact)
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I'm always curious about new technologies and hungry to learn.
+- ⚡ Fun fact: I'm always curious about new technologies.
 
 #### Top Technologies
 
