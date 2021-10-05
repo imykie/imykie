@@ -4,7 +4,7 @@
 **MichaelOlatunji/MichaelOlatunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I craft solid and scalable products with great user experiences. I love learning more about Tech everyday!
+I craft solid and scalable products with great user experiences.
 
 :mailbox: Reach me out!
 
@@ -13,8 +13,8 @@ I craft solid and scalable products with great user experiences. I love learning
 - 🔭 I’m currently working on taking my Data Structures and Algorithms skills to the next level 🚀🚀🚀.
 - 🤔 I’m looking for help with getting better with advanced system design and architectural patterns.
 - 📫 How to reach me: tundexmike@gmail.com or [My Website](https://imyke.dev/contact)
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I'm always curious about new technologies.
+- 😄 Pronouns: He/Him/His.
+- ⚡ Fun fact: When I'm not Coding/Working or Studying, I'm learning about some new stuffs 😎
 
 #### Top Technologies
 
@@ -28,7 +28,7 @@ I craft solid and scalable products with great user experiences. I love learning
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MichaelOlatunji.MichaelOlatunji)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=MichaelOlatunji.MichaelOlatunji) -->
 
 <details>
   <summary>
