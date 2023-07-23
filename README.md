@@ -4,9 +4,10 @@
 **MichaelOlatunji/MichaelOlatunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- ❤️ I love to craft solid and scalable products with great user experience.
-- 🔭 Taking my problem solving skills to the next level 🚀🚀🚀.
-- 🤔 I’m looking forward to connecting and meet more people intrigued by Tech.
+- ❤️ I love to craft solid and scalable products with excellent user experience. I'm passionate about solving complex problems.
+- 🔭 Taking my problem-solving skills to the next level 🚀🚀🚀.
+- 🤔 I look forward to connecting and meeting more people intrigued by Tech.
+- 👀 Open to senior year internships and/or new grad roles (prev @JP Morgan Chase (2x), @Cruise)
 - 💼 Portfolio: [My Website](https://imyke.dev/contact)
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: When I'm not Coding or Studying, I'm learning about some new stuffs, enjoying some good music or traveling 😎
@@ -23,20 +24,3 @@
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1cXG3oS6vv4zkcRBs3aMensAMvf0hpyIr/view?usp=sharing)
 - :email: hello@imyke.dev
 - :mailbox: https://imyke.dev -->
-
-
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MichaelOlatunji.MichaelOlatunji)
-
-<details>
-  <summary>
-    See more about me
-  </summary>
-<br >
-
-#### Github Stats
-
-![Michael Olatunji's github stats](https://github-readme-stats.vercel.app/api?username=imykie&count_private=true&show_icons=true&theme=radical)
-
-</details>
