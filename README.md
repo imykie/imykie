@@ -7,7 +7,7 @@
 - ❤️ I love to craft solid and scalable products with excellent user experience. I'm passionate about solving complex problems.
 - 🔭 Taking my problem-solving skills to the next level 🚀🚀🚀.
 - 🤔 I look forward to connecting and meeting more people intrigued by Tech.
-- 👀 Open to senior year internships and/or new grad roles (prev @JP Morgan Chase (2x), @Cruise)
+- 👀 Open to senior year internships and/or new grad roles (prev SWE Intern @JP Morgan Chase (2x), @Cruise)
 - 💼 Portfolio: [My Website](https://imyke.dev/contact)
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: When I'm not Coding or Studying, I'm learning about some new stuffs, enjoying some good music or traveling 😎
